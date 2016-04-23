@@ -1,0 +1,16 @@
+{
+  "name": "mh_mailer",
+  "version": "0.0.1",
+  "description": "service that send email",
+  "main": "mailer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "nodemailer": "^2.3.2"
+  }
+}
